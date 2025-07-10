@@ -1,0 +1,20 @@
+[
+  {
+    "email": "ahmed@yourcompany.com",
+    "password": "ahmedpass",
+    "name": "أحمد المدير",
+    "photo": "https://i.ibb.co/m0fJ1M2/male-avatar-admin.png"
+  },
+  {
+    "email": "fatima@yourcompany.com",
+    "password": "fatimapass",
+    "name": "فاطمة المحررة",
+    "photo": "https://i.ibb.co/CByL94X/male-avatar-editor.png"
+  },
+  {
+    "email": "khalid@yourcompany.com",
+    "password": "khalidpass",
+    "name": "خالد المراجع",
+    "photo": "https://i.ibb.co/vjJjS0J/male-avatar-guest.png"
+  }
+]
